@@ -8,7 +8,7 @@ Agent memory systems like OpenClaw store facts and retrieve them by similarity. 
 
 The result: new AI sessions engage with your project at the level of accumulated understanding, not from zero.
 
-Read the full paradigm argument: **[The Reasoning Harness](Substack link TBD)**
+Read the full paradigm argument: **[The Reasoning Harness](https://michael124.substack.com/p/the-reasoning-harness-preserving)**
 
 ---
 
