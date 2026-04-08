@@ -17,6 +17,7 @@ Read the full paradigm argument: **[The Reasoning Harness](https://michael124.su
 | File | What It Does |
 |------|-------------|
 | `SKILL.md` | The complete CERA skill — install this in your Claude Project |
+| `skills/cera-reasoning-harness/SKILL.md` | Same skill file, in the conventional Claude skill directory layout |
 | `SETUP_GUIDE.md` | Step-by-step guide from installation to first session map |
 | `THE_REASONING_HARNESS.md` | The full essay: why reasoning preservation matters more than memory |
 
