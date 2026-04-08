@@ -18,7 +18,7 @@ Read the full paradigm argument: **[The Reasoning Harness](Substack link TBD)**
 |------|-------------|
 | `SKILL.md` | The complete CERA skill — install this in your Claude Project |
 | `SETUP_GUIDE.md` | Step-by-step guide from installation to first session map |
-| `paradigm_essay_v3.md` | The full essay: why reasoning preservation matters more than memory |
+| `THE_REASONING_HARNESS.md` | The full essay: why reasoning preservation matters more than memory |
 
 ---
 
